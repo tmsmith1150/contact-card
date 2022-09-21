@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/tmsmith1150/contact-card#readme",
   "dependencies": {
-    "concurrently": "^7.3.0"
+    "concurrently": "^7.4.0"
   }
 }

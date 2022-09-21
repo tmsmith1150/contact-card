@@ -1,0 +1,12 @@
+
+
+npm i concurrently
+
+in client directory create webpack.config.js and at root of client directory run
+npm install
+ npx webpack 
+npm install webpack-cli
+npm run build
+npm install bootstrap
+npm install @popperjs/core
+npm install --save-dev html-webpack-plugin to generate html
