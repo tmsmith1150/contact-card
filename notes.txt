@@ -10,3 +10,15 @@ npm run build
 npm install bootstrap
 npm install @popperjs/core
 npm install --save-dev html-webpack-plugin to generate html
+
+
+
+heroku eaddrinuse error
+ps aux | grep node
+     1723    1716    1716      25660  cons2     197609   Sep 19 /c/Program Files/nodejs/node
+     kill -9 1723
+
+npm install
+heroku local web
+heroku create --remote staging
+heroku config:set NODE_ENV=development --remote staging
